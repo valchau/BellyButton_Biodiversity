@@ -1,0 +1,25 @@
+<style>
+#funny:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+#funny:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+#funny:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+#funny:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
