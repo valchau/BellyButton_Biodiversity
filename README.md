@@ -22,7 +22,7 @@ Here is what the top of the website and its little icon (BB on blue) look like:
 [how the website dashboard part looks at the start](middlewebsite.PNG)
 [how the bubble chart looks](bottomwebsite.PNG)
 
-{what if you choose a different id?](middleusingotherid.PNG)
+[what if you choose a different id?](middleusingotherid.PNG)
 
 
 ## Summary
