@@ -19,7 +19,14 @@ Here is what the top of the website and its little icon (BB on blue) look like:
 
 [I added this image and link and funny text](topwebsite.PNG)
 
+[how the website dashboard part looks at the start](middlewebsite.PNG)
+[how the bubble chart looks](bottomwebsite.PNG)
+
+{what if you choose a different id?](middleusingotherid.PNG)
+
+
 ## Summary
+
 ### Funny
 I cannot imagine excavating anyone's belly button, even mine
 ### Meat
