@@ -13,11 +13,11 @@ I had to laugh about the entire concept of both looking at peoples' belly button
 For the Interactive Dashboard created in this project, I used PyCharm to edit the HTML document, create a small CSS file and to add major code to the JavaScript file charts.js in a project. Because I am using Windoze 10, I used the git bash terminal app to start the Python based web server on port 8000. This only worked when I navigated to the folder where my website's files are found. Then I return to my PyCharm project, open the HTML file index.html using Chrome, and I see the interactive website.
 
 ### How things look and work
+Here is what the top of the website and its little icon (BB on blue) look like:
 
-## Results 
-### What the bar chart shows
-### What the bubble chart shows
-### What the gauge shows
+[i made this BB icon](madeicon.PNG)
+
+[I added this image and link and funny text](topwebsite.PNG)
 
 ## Summary
 ### Funny
